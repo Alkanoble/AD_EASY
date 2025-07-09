@@ -935,7 +935,7 @@
                   lastLogin: new Date().toISOString()
               });
   
-              // Check if email is aandrearose4@gmail.com and redirect to dashboard
+              // Checking email to redirect
               if (email === "") {
                   window.location.href = "{% url 'accounts:dashboard' %}"; // Redirect to dashboard
                   return; // Exit the function
