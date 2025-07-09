@@ -1,1 +1,5 @@
 Ad-Easy is a user-centric web platform designed to revolutionize the traditional process of newspaper advertisement placement. By integrating Firebase authentication and a clean, responsive UI, it allows users to seamlessly browse ad categories, submit ads, and track their publication status — all in one place. Whether it's a public notice, a travel ad, or a remembrance message, users can effortlessly create and manage advertisements with just a few clicks. The project emphasizes simplicity, security, and real-time interaction, making the ad submission process faster, smarter, and accessible to everyone — no technical knowledge required.# AD_EASY
+![home](https://github.com/user-attachments/assets/a7a79c31-8f77-4f61-a04b-3d4a16537559)
+![adtype](https://github.com/user-attachments/assets/370bb153-97c5-4abc-a885-2f6ccd9e5ab8)
+![adcat](https://github.com/user-attachments/assets/070ad98c-37be-4669-be49-3b13b7f812c9)
+![states](https://github.com/user-attachments/assets/55cb6d44-c9a7-42e8-bae4-7339b55eec0b)
